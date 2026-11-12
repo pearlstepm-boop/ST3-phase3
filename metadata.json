@@ -1,0 +1,6 @@
+{
+  "name": "Alcohol Strategy 3 Workshop System",
+  "description": "ระบบสนับสนุนการประชุมเชิงปฏิบัติการ วิเคราะห์ช่องว่างและเสนอโครงการขับเคลื่อนกลยุทธ์ที่ 3 การคัดกรองและบำบัดรักษาผู้มีปัญหาจากการดื่มแอลกอฮอล์ พร้อม Logic Model และใบงานกลุ่มแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
